@@ -147,9 +147,9 @@ The `sql/analysis_queries.sql` file contains **10 production-ready SQL queries**
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Penumala Navadeep]**  
 Product Analyst | Data Analytics  
-[LinkedIn] | [GitHub]
+
 
 ---
 
